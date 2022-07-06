@@ -1,0 +1,14 @@
+{
+  "name": "testing-i-sum_arguments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-jest": "^28.0.5"
+  }
+}
